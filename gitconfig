@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = madhup911@yahoo.co.in
+	name = madhup singh
